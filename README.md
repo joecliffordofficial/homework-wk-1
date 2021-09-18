@@ -8,4 +8,4 @@ Next I made sure the semantic HTML elements were structred in a logical way inde
 
 Finally I pushed all my changes to my repository, added the README, and deployed the site. 
 
-Check out the site! 
+Check out the site! https://joecliffordofficial.github.io/homework-wk-1/#social-media-marketing
