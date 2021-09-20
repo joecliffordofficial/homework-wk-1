@@ -9,3 +9,5 @@ Next I made sure the semantic HTML elements were structred in a logical way inde
 Finally I pushed all my changes to my repository, added the README, and deployed the site. 
 
 Check out the site! https://joecliffordofficial.github.io/homework-wk-1/#social-media-marketing
+
+[01-html-css-git-homework-demo](https://user-images.githubusercontent.com/88416486/133953777-60498ff0-8bc2-425a-b92d-469c3b7c8acb.png)
